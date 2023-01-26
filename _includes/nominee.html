@@ -1,0 +1,8 @@
+<div class="watcher-nominees">
+	<h2>And the nominees are…</h2>
+	<div class="nominees">
+		{% for film in site.data.films.films %}
+			{% include film.html %}
+		{% endfor %}
+	</div>
+</div>

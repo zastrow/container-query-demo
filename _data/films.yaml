@@ -1,0 +1,41 @@
+# films:
+  -
+    title: "All Quiet on the Western&nbsp;Front"
+    director: Edward Berger
+    poster: "https://upload.wikimedia.org/wikipedia/en/c/c3/All_quiet_on_the_western_front_%282022_film%29.jpg"
+  -
+    title: "Avatar: The Way of&nbsp;Water"
+    director: James Cameron
+    poster: "https://trailers.apple.com/trailers/fox/avatar-the-way-of-water/images/poster_2x.jpg"
+  -
+    title: "The Banshees of&nbsp;Inisherin"
+    director: Martin McDonagh
+    poster: "https://trailers.apple.com/trailers/fox_searchlight/the-banshees-of-inisherin/images/poster_2x.jpg"
+  -
+    title: "Elvis"
+    director: Baz Luhrmann
+    poster: "https://trailers.apple.com/trailers/wb/elvis/images/poster_2x.jpg"
+  -
+    title: "Everything Everywhere All&nbsp;at&nbsp;Once"
+    director: Dan Kwan and Daniel Scheinert
+    poster: "https://trailers.apple.com/trailers/a24/everything-everywhere-all-at-once/images/poster_2x.jpg"
+  -
+    title: "The Fabelmans"
+    director: Steven Spielberg
+    poster: "https://trailers.apple.com/trailers/universal/the-fabelmans/images/poster_2x.jpg"
+  -
+    title: "Tár"
+    director: Todd Field
+    poster: "https://trailers.apple.com/trailers/focus_features/tar/images/poster_2x.jpg"
+  -
+    title: "Top Gun: Maverick"
+    director: Joseph Kosinski
+    poster: "https://trailers.apple.com/trailers/paramount/top-gun-maverick/images/poster_2x.jpg"
+  -
+    title: "Triangle of&nbsp;Sadness"
+    director: Ruben Östlund
+    poster: "https://trailers.apple.com/trailers/independent/triangle-of-sadness/images/poster_2x.jpg"
+  -
+    title: "Women Talking"
+    director: Sarah Polley
+    poster: "https://trailers.apple.com/trailers/independent/women-talking/images/poster_2x.jpg"
