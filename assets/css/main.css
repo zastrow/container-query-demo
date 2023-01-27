@@ -2,14 +2,14 @@
 	font-family: "Cabin";
 	font-weight: 400 700;
 	font-style: normal;
-	src: url('/assets/cabin.ttf');
+	src: url('../cabin.ttf');
 }
 
 @font-face {
 	font-family: "Cabin";
 	font-weight: 400 700;
 	font-style: italic;
-	src: url('/assets/cabin-italic.ttf');
+	src: url('../cabin-italic.ttf');
 }
 
 :root {
